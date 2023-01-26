@@ -1,0 +1,152 @@
+  body {
+    color: #40514E;
+    background-color: #EEEEEE;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  }
+
+  h1 {
+    color: #3C4048;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 60px;
+    margin: 50px auto 0 auto;
+  }
+
+  h2 {
+    color: #3C4048;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+
+  h3 {
+    color: #3C4048;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    margin: auto;
+  }
+
+  hr {
+    border: dotted 6px;
+    border-bottom: none;
+    height: 0px;
+    width: 4%;
+    border-color: grey;
+    margin: 100px auto;
+  }
+
+  img {
+    height: 130px;
+  }
+
+  p {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    line-height: 2;
+  }
+
+  a {
+  font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  margin: 10px 20px;
+  }
+
+  a:hover {
+    color: #A29494;
+  }
+
+  .jnr {
+    font-size: 25px;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  }
+
+
+  .abdullah-img {
+    height: 200px;
+  }
+
+  .programming-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 0px;
+  }
+
+  .networking-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+  .top-container {
+    text-align: center;
+  }
+
+  .middle-container {
+    text-align: center;
+  }
+
+  .bottom-container {
+    text-align: center;
+    background-color: #3C4048;
+    padding: 50px 0 20px;
+  }
+
+  .contact-me {
+    width: 50%;
+    margin: 30px auto 30px auto;
+  }
+
+  .btn {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    background: #343b40;
+    padding: 5px 13px 5px 13px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #000000;
+    text-decoration: none;
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 70px auto 70px auto;
+  }
+
+  .hello {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+
+  }
+
+  .intro {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    font-family: Avant Garde, Avantgarde, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: #3C4048;
+    font-size: 19px;
+  }
+
+  .getintouch {
+    width: 50%;
+    margin: 10px auto 10px auto
+  }
+
+  .foot-descr {
+    width: 50%;
+    margin: 20px auto 20px auto
+  }
+
+.footer-link {
+  color: #F0EEEE;
+}
+
+.footer-name {
+  color: #F0EEEE;
+  font-size: 0.75rem;
+}
